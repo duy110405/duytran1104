@@ -46,6 +46,11 @@ interests   : [ Chơi thể thao, Xem phim , Du lịch , Nhiếp ảnh thiên nh
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+ast food operations, including order processing, menu management, and user authentication.
+Implemented RESTful APIs using Spring Boot and built responsive UI with React.
+Collaborated in a 5-member team following Agile Scrum methodology.
+<br/>
+🔗 [Xem Repository](https://github.com/duy110405/Project_FastFoodShop)
 
 ## `> ls projects/`
 
@@ -54,20 +59,17 @@ interests   : [ Chơi thể thao, Xem phim , Du lịch , Nhiếp ảnh thiên nh
 <td width="50%" valign="top">
 
 ### Fast Food Management Web Application
-`Java Spring Boot` `React` `MySQL`
-`Role : Full-stack Developer`
+`Java Spring Boot` `React` `MySQL`<br/>
+`Role : Full-stack Developer`<br/>
 Developed a full-stack web application for managing fast food operations, including order processing, menu management, and user authentication.
 Implemented RESTful APIs using Spring Boot and built responsive UI with React.
 Collaborated in a 5-member team following Agile Scrum methodology.
-<br/>
-🔗 [Xem Repository](https://github.com/duy110405/Project_FastFoodShop)
-
 </td>
 <td width="50%" valign="top">
 
 ### Warehouse Management Web Application 
-`Java Spring Boot` `React` `Microsoft SQL Server`
-`Role : Full-stack Developer`
+`Java Spring Boot` `React` `Microsoft SQL Server`<br/>
+`Role : Full-stack Developer`<br/>
 Developed an Android application for pet care services, enabling appointment booking and schedule management.
 Integrated Firebase for real-time data storage and authentication.
 Designed intuitive UI to improve user experience for pet owners and shop staff.
@@ -80,8 +82,8 @@ Designed intuitive UI to improve user experience for pet owners and shop staff.
 <td colspan="2" valign="top">
 
 ### Pet Care Android App
-`Android Studio` `Firebase` `Java` 
-`Role : Android Developer`
+`Android Studio` `Firebase` `Java` <br/>
+`Role : Android Developer`<br/>
 Developed an Android application for pet care services, enabling appointment booking and schedule management.
 Integrated Firebase for real-time data storage and authentication.
 Designed intuitive UI to improve user experience for pet owners and shop staff.
