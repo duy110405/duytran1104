@@ -17,7 +17,7 @@ name        : Trần Khánh Duy
 alias       : DuyTran
 role        : Software Engineer
 location    : Bắc Ninh, Việt Nam
-education   : Ha Noi Open University
+education   : Ha Noi Open University | GPA : 2.8 | Toeic : 450 
 started     : 2023
 interests   : [ Chơi thể thao, Xem phim , Du lịch , Nhiếp ảnh thiên nhiên ]
 ```
