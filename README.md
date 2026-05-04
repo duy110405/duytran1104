@@ -46,12 +46,6 @@ interests   : [ Chơi thể thao, Xem phim , Du lịch , Nhiếp ảnh thiên nh
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-ast food operations, including order processing, menu management, and user authentication.
-Implemented RESTful APIs using Spring Boot and built responsive UI with React.
-Collaborated in a 5-member team following Agile Scrum methodology.
-<br/>
-🔗 [Xem Repository](https://github.com/duy110405/Project_FastFoodShop)
-
 ## `> ls projects/`
 
 <table>
@@ -63,7 +57,8 @@ Collaborated in a 5-member team following Agile Scrum methodology.
 `Role : Full-stack Developer`<br/>
 Developed a full-stack web application for managing fast food operations, including order processing, menu management, and user authentication.
 Implemented RESTful APIs using Spring Boot and built responsive UI with React.
-Collaborated in a 5-member team following Agile Scrum methodology.
+Collaborated in a 5-member team following Agile Scrum methodology.<br/>
+🔗 [Xem Repository](https://github.com/duy110405/Project_FastFoodShop)
 </td>
 <td width="50%" valign="top">
 
