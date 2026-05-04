@@ -47,6 +47,47 @@ interests   : [ Chơi thể thao, Xem phim ]
 
 ---
 
+## `> ls projects/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Fast Food Management
+`C#` `ASP.NET Core` `React` `SQL Server`
+
+Hệ thống quản lý cửa hàng thức ăn nhanh. Phát triển theo mô hình Agile Scrum cùng Team T09.
+<br/>
+🔗 [Xem Repository](https://github.com/YOUR_GITHUB_USERNAME_HERE/LINK_REPO_CUA_BAN)
+
+</td>
+<td width="50%" valign="top">
+
+### Music & Video Player
+`Android Studio` `Java` `MediaAPI`
+
+Ứng dụng di động hỗ trợ phát nhạc và video trực quan trên nền tảng Android sử dụng MediaAPI.
+<br/>
+🔗 [Xem Repository](https://github.com/YOUR_GITHUB_USERNAME_HERE/LINK_REPO_CUA_BAN)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Student Data Sync
+`Android Studio` `SQLite` `Firebase`
+
+Ứng dụng Android đồng bộ hóa dữ liệu sinh viên giữa cơ sở dữ liệu cục bộ (SQLite) và Firebase Realtime Database.
+<br/>
+🔗 [Xem Repository](https://github.com/YOUR_GITHUB_USERNAME_HERE/LINK_REPO_CUA_BAN)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## `> git log --stats`
 
 <div align="center">
