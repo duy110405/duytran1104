@@ -16,10 +16,10 @@
 name        : Trần Khánh Duy
 alias       : DuyTran
 role        : Software Engineer
-location    : Hà Nội, Việt Nam
+location    : Bắc Ninh, Việt Nam
 education   : Ha Noi Open University
 started     : 2023
-interests   : [ Chơi thể thao, Xem phim ]
+interests   : [ Chơi thể thao, Xem phim , Du lịch , Nhiếp ảnh thiên nhiên ]
 ```
 
 ---
@@ -53,34 +53,40 @@ interests   : [ Chơi thể thao, Xem phim ]
 <tr>
 <td width="50%" valign="top">
 
-### Fast Food Management
-`C#` `ASP.NET Core` `React` `SQL Server`
-
-Hệ thống quản lý cửa hàng thức ăn nhanh. Phát triển theo mô hình Agile Scrum cùng Team T09.
+### Fast Food Management Web Application
+`Java Spring Boot` `React` `MySQL`
+`Role : Full-stack Developer`
+Developed a full-stack web application for managing fast food operations, including order processing, menu management, and user authentication.
+Implemented RESTful APIs using Spring Boot and built responsive UI with React.
+Collaborated in a 5-member team following Agile Scrum methodology.
 <br/>
-🔗 [Xem Repository](https://github.com/YOUR_GITHUB_USERNAME_HERE/LINK_REPO_CUA_BAN)
+🔗 [Xem Repository](https://github.com/duy110405/Project_FastFoodShop)
 
 </td>
 <td width="50%" valign="top">
 
-### Music & Video Player
-`Android Studio` `Java` `MediaAPI`
-
-Ứng dụng di động hỗ trợ phát nhạc và video trực quan trên nền tảng Android sử dụng MediaAPI.
+### Warehouse Management Web Application 
+`Java Spring Boot` `React` `Microsoft SQL Server`
+`Role : Full-stack Developer`
+Developed an Android application for pet care services, enabling appointment booking and schedule management.
+Integrated Firebase for real-time data storage and authentication.
+Designed intuitive UI to improve user experience for pet owners and shop staff.
 <br/>
-🔗 [Xem Repository](https://github.com/YOUR_GITHUB_USERNAME_HERE/LINK_REPO_CUA_BAN)
+🔗 [Xem Repository](https://github.com/duy110405/Project_Warehouse)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### Student Data Sync
-`Android Studio` `SQLite` `Firebase`
-
-Ứng dụng Android đồng bộ hóa dữ liệu sinh viên giữa cơ sở dữ liệu cục bộ (SQLite) và Firebase Realtime Database.
+### Pet Care Android App
+`Android Studio` `Firebase` `Java` 
+`Role : Android Developer`
+Developed an Android application for pet care services, enabling appointment booking and schedule management.
+Integrated Firebase for real-time data storage and authentication.
+Designed intuitive UI to improve user experience for pet owners and shop staff.
 <br/>
-🔗 [Xem Repository](https://github.com/YOUR_GITHUB_USERNAME_HERE/LINK_REPO_CUA_BAN)
+🔗 [Xem Repository](https://github.com/duy110405/PetCareAppMobile)
 
 </td>
 </tr>
