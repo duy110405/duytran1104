@@ -7,7 +7,6 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-DuyTran-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME_HERE)
-
 </div>
 
 ---
@@ -36,6 +35,7 @@ interests   : [ Chơi thể thao, Xem phim ]
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Data & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -44,29 +44,6 @@ interests   : [ Chơi thể thao, Xem phim ]
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## `> ls projects/`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Fast Food Management
-`C#` `ASP.NET Core` `React` `SQL Server`
-
-Hệ thống quản lý cửa hàng thức ăn nhanh với đầy đủ chức năng quản lý đơn hàng và doanh thu.
-
-</td>
-<td width="50%" valign="top">
-
-### Music & Video Player
-`Android Studio` `Java` `MediaAPI`
-
-Ứng dụng di động hỗ trợ phát nhạc và video trực quan.
-
-</td>
-</tr>
-</table>
 
 ---
 
