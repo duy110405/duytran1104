@@ -58,20 +58,6 @@ interests   : [ Developer Tooling, AI x Engineering, HomeLab, Networking ]
 ![Gemini](https://img.shields.io/badge/Gemini_2.5_Pro-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white)
 
----
-## `> open shopmanguon.com`
-
-<div align="center">
-
-[![ShopMaNguon](https://img.shields.io/badge/ShopMaNguon.com-PHP%20Source%20Code%20Marketplace-7c3aed?style=for-the-badge&logo=php&logoColor=white)](https://shopmanguon.com)
-
-Mình vận hành **[ShopMaNguon.com](https://shopmanguon.com)** — nơi mua bán source code PHP, script web và plugin được kiểm duyệt kỹ thuật bởi developer thực chiến.
-
-> Đang cần một web bán hàng, hệ thống quản lý, hay tool PHP có sẵn?  
-> → **[Xem sản phẩm tại đây](https://shopmanguon.com)**
-
-</div>
----
 ## `> ls projects/`
 
 <table>
@@ -112,20 +98,11 @@ Nền tảng chấm điểm CV đa ngôn ngữ (VI/EN/ZH). Weighted scoring + AI
 
 </div>
 
----
-
-## `> cat philosophy.txt`
-
-> *"Không cần giỏi nhất ngay từ đầu — cần đủ tò mò để tiếp tục build."*
-
-Bắt đầu từ một đứa 15 tuổi tự mày mò làm web, giờ là Technical Lead tại startup tự gây dựng. Mình tin vào việc học qua dự án thực tế, viết code sạch, và dùng AI như một công cụ — không phải phép màu.
-
----
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" />
 
-<sub>📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Open to collaboration &amp; internship opportunities</sub>
+<sub>📍 Ha Noi City, Vietnam &nbsp;|&nbsp; Open to collaboration &amp; internship opportunities</sub>
 
 </div>
