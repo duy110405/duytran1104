@@ -6,7 +6,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-DuyTran-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-DuyTran-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duy110405)
 </div>
 
 ---
@@ -16,8 +16,8 @@
 name        : Trần Khánh Duy
 alias       : DuyTran
 role        : Software Engineer
-location    : Bắc Ninh, Việt Nam
-education   : Ha Noi Open University | GPA : 2.8 | Toeic : 450 
+location    : Hà Nội, Việt Nam
+education   : Ha Noi Open University 
 started     : 2023
 interests   : [ Chơi thể thao, Xem phim , Du lịch , Nhiếp ảnh thiên nhiên ]
 ```
@@ -65,9 +65,9 @@ Collaborated in a 5-member team following Agile Scrum methodology.<br/>
 ### Warehouse Management Web Application 
 `Java Spring Boot` `React` `Microsoft SQL Server`<br/>
 `Role : Full-stack Developer`<br/>
-Developed an Android application for pet care services, enabling appointment booking and schedule management.
-Integrated Firebase for real-time data storage and authentication.
-Designed intuitive UI to improve user experience for pet owners and shop staff.
+Built a warehouse management system to manage inventory, stock updates, and product tracking.
+Designed and implemented RESTful APIs using Spring Boot and integrated database operations with Microsoft SQL Server.
+Developed responsive user interfaces with React to support efficient warehouse workflows.
 <br/>
 🔗 [Xem Repository](https://github.com/duy110405/Project_Warehouse)
 
